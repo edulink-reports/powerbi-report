@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Power BI Dashboard</title>
+</head>
+<body style="margin:0;">
+    <iframe
+        title="Power BI Report"
+        width="100%"
+        height="900"
+        src="https://app.powerbi.com/view?r=eyJrIjoiZDc1Y2M3MzQtZGM0NS00ZTFlLTliMzUtYmEzM2EyYTY2NGY2IiwidCI6Ijk3YzVkNzg5LTJhNjctNGJmMy05MzE3LTZmYWU4OWMxZGExMCIsImMiOjEwfQ%3D%3D"
+        frameborder="0"
+        allowfullscreen="true">
+    </iframe>
+</body>
+</html>
